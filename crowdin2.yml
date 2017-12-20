@@ -1,0 +1,5 @@
+files:
+    source: '{name}.en-Us.md'
+    translation: '{name}%locale%.en-Us.md'
+    translation_replace: 
+        'en': ''
