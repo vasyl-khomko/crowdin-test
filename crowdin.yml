@@ -1,3 +1,5 @@
 files:
   - source: /README.en.md
-    translation: /README.en.%two_letters_ffffcode%.md
+    translation: /README.en.%two_letters_code%.md
+  - source: /breakfast-menu.xml
+    translation: /breakfast-menu-%two_letters_code%.xml
