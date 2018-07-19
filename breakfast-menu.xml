@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu xml:lang="en">
+<food name="Belgian Waffles">
+  <price>$5.95</price>
+  <description>Contact between rock bodies that is not a fault. A non-faulted contact separating bodies of material in the earth that have different lithologic character or geologic history. Dike in which intrusive rock has intermediate composition.</description>
+  <calories>650</calories>
+</food>
+<food name="French Toast">
+  <price>$4.50</price>
+  <description>Thick slices made from our homemade sourdough bread. Vein formed by a solid mineral fill (like a dike). Metamorphic rock consisting of greater than or equal to 75 percent quartz. Linear structure defined by the locus of maximum curvature of a folded surface.</description>
+  <calories>600</calories>
+</food>
+<food name="Homestyle Breakfast">
+  <price>$6.95</price>
+  <description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns. Dike in which intrusive rock has intermediate composition. a hornblende-rich ultramafic rock with greater than 90 modal percent hornblende. Station subtype for collected rock samples.</description>
+  <calories>950</calories>
+</food>
+</breakfast_menu>
