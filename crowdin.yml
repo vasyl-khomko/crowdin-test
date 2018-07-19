@@ -1,0 +1,3 @@
+files:
+  - source: /README.en.md
+    translation: /README.en.%two_letters_code%.md
