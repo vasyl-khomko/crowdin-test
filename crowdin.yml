@@ -1,5 +1,0 @@
-files:
-  - source: /*.en.md
-    translation: /%file_name%.%two_letters_code%.md
-    translation_replace:
-      .en: 
