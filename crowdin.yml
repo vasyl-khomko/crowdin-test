@@ -1,13 +1,7 @@
-commit_message: "New translations automatically synced from Crowdin"
+commit_message: New translations automatically synced from Crowdin
 files:
-  # files in /translations/august-babelfish are not configured for translation on purpose
-  # those files are used for tests and in some cases are missing translations on purpose
-
   - source: /translations/august-account-api/*.source.xlf
     translation: /translations/august-account-api/%file_name%.%locale%.xlf
     translation_replace:
-      .source: ""
+      .source: 
     update_option: update_as_unapproved
-
-
-
