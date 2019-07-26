@@ -8,6 +8,12 @@ files:
     translation_replace:
       .source: ""
     update_option: update_as_unapproved
+    
+  - source: /translations/august-account-ui/*.en.xlf
+    translation: /translations/august-account-ui/%file_name%.%two_letters_code%.xlf
+    translation_replace:
+      .en:
+    update_option: update_as_unapproved
 
 
 
