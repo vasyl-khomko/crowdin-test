@@ -1,64 +1,52 @@
-commit_message: "New translations automatically synced from Crowdin"
+commit_message: New translations automatically synced from Crowdin
 files:
-  # files in /translations/august-babelfish are not configured for translation on purpose
-  # those files are used for tests and in some cases are missing translations on purpose
-
   - source: /translations/august-account-api/*.source.xlf
     translation: /translations/august-account-api/%file_name%.%locale%.xlf
-    translation_replace:
-      .source: ""
     update_option: update_as_unapproved
-
+    translation_replace:
+      .source: ''
   - source: /translations/august-account-ui/*.en.xlf
     translation: /translations/august-account-ui/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-constants/*.en.xlf
     translation: /translations/august-constants/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-event-processor/*.en.xlf
     translation: /translations/august-event-processor/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-lost-phone/*.en.xlf
     translation: /translations/august-lost-phone/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-notification-server/en/*
-    translation: /translations/august-notification-server/%two_letters_code%/%original_file_name%
+    translation: >-
+      /translations/august-notification-server/%two_letters_code%/%original_file_name%
     update_option: update_as_unapproved
-
   - source: /translations/august-oauth/*.en.xlf
     translation: /translations/august-oauth/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-rest-api/*.en.xlf
     translation: /translations/august-rest-api/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
   - source: /translations/august-subscription-server/*.en.xlf
-    translation: /translations/august-subscription-server/%file_name%.%two_letters_code%.xlf
+    translation: >-
+      /translations/august-subscription-server/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
-
   - source: /translations/august-subscriptions-ui/*.en.xlf
     translation: /translations/august-subscriptions-ui/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: 
     update_option: update_as_unapproved
-
