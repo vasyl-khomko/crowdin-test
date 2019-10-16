@@ -6,8 +6,3 @@ files:
     update_option: update_as_unapproved
     translation_replace:
       .en: ''
-  - source: /translations/august-subscriptions-ui/*.en.xlf
-    translation: /translations/august-subscriptions-ui/%file_name%.%two_letters_code%.xlf
-    translation_replace:
-      .en: 
-    update_option: update_as_unapproved
