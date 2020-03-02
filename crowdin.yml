@@ -1,8 +1,9 @@
 commit_message: New translations automatically synced from Crowdin
 files:
-  - source: /translations/august-subscription-server/*.en.xlf
-    translation: >-
-      /translations/august-subscription-server/%file_name%.%two_letters_code%.xlf
+  - source: /**/*.*
+    ignore:
+      - /translations/august-account-ui
+    translation: /%original_path%/%file_name%.%two_letters_code%.xlf
     update_option: update_as_unapproved
     translation_replace:
       .en: ''
