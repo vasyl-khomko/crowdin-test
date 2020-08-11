@@ -1,0 +1,28 @@
+{
+    "identifier": "crwdns1944772:0crwdne1944772:0",
+    "name": "crwdns1944774:0crwdne1944774:0",
+    "logo": "crwdns1944776:0crwdne1944776:0",
+    "baseUrl": "crwdns1944778:0crwdne1944778:0",
+    "authentication": {
+        "type": "crwdns1944780:0crwdne1944780:0",
+        "clientId": "crwdns1944782:0crwdne1944782:0"
+    },
+    "events": {
+        "installed": "crwdns1944784:0crwdne1944784:0",
+        "uninstall": "crwdns1944786:0crwdne1944786:0"
+    },
+    "scopes": [
+        "crwdns1944788:0crwdne1944788:0"
+    ],
+    "modules": {
+        "integrations": [
+            {
+                "key": "crwdns1944790:0crwdne1944790:0",
+                "name": "crwdns1944792:0crwdne1944792:0",
+                "description": "crwdns1944794:0crwdne1944794:0",
+                "logo": "crwdns1944796:0crwdne1944796:0",
+                "url": "crwdns1944798:0crwdne1944798:0"
+            }
+        ]
+    }
+}
