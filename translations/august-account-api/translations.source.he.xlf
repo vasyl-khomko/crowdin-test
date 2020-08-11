@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="1470" original="/android.xml" source-language="en" target-language="he" datatype="plaintext">
+    <body>
+      <trans-unit id="113606" identifier="d7b5808c3f443eb5a496225468c7e4a5">
+        <source>first string source</source>
+        <target state="needs-translation">first string source</target>
+        <note>Context: str1</note>
+      </trans-unit>
+      <trans-unit id="113608" identifier="6dc84905d6df841d6f19153bd593e213">
+        <source>second string source</source>
+        <target state="needs-translation">second string source</target>
+        <note>Context: str2</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
