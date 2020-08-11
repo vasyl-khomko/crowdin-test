@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file id="1470" original="/android.xml" source-language="en" target-language="zh-CN" datatype="plaintext">
+  <file id="1470" original="/android.xml" source-language="en" target-language="zh-TW" datatype="plaintext">
     <body>
       <trans-unit id="113606" identifier="d7b5808c3f443eb5a496225468c7e4a5">
         <source>first string source</source>
