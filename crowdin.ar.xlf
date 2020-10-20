@@ -1,0 +1,28 @@
+{
+    "identifier": "crowdin-proxy-translator",
+    "name": "Jsproxy for Crowdin",
+    "logo": "/assets/logo.png",
+    "baseUrl": "https://proxy-translator.app.crowdin.net",
+    "authentication": {
+        "type": "authorization_code",
+        "clientId": "sHhkJlhOAIboL18I0kFC"
+    },
+    "events": {
+        "installed": "/api/hook/install",
+        "uninstall": "/api/hook/uninstall"
+    },
+    "scopes": [
+        "project"
+    ],
+    "modules": {
+        "integrations": [
+            {
+                "key": "crowdin-proxy-translator",
+                "name": "Jsproxy for Crowdin",
+                "description": "Allows to translate websites effortlessly",
+                "logo": "/assets/logo.png",
+                "url": "/integration/"
+            }
+        ]
+    }
+}
