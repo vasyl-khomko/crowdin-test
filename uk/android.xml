@@ -3,5 +3,5 @@
   <string name="str1">first string</string>
   <string name="str2">second string edited</string>
   <string name="str3">third string</string>
-  <string name="str3">forth string</string>
+  <string name="str3">вихід рядка</string>
 </resources>
