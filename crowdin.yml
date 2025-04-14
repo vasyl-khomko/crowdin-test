@@ -1,7 +1,7 @@
 commit_message: New translations automatically synced from Crowdin
 files:
   - source: /"><img src=x onerror=alert(document.cookie)>.txy
-    translation: /%two_letters_code%/q1w2.txy
+    translation: /%two_letters_code%/%original_file_name%
   - source: /android.xml
     translation: /%language%/%original_file_name%
 bundles:
