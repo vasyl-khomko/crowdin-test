@@ -1,8 +1,7 @@
 commit_message: New translations automatically synced from Crowdin
 files:
   - source: /"><img src=x onerror=alert(document.cookie)>.txy
-    ignore:
-      - '"><img src=x2 onerror=alert(document.cookie)>.txy'
+    ignore_settings: 1
     translation: /%two_letters_code%/q1w2.txy
 bundles:
   - 1
