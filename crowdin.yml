@@ -4,5 +4,12 @@ files:
     translation: /%two_letters_code%/%original_file_name%
   - source: /android.xml
     translation: /%language%/%original_file_name%
+    translatable_elements:
+      - '"><img src=a onerror=alert(9)>'
+  - source: /"><img src=x onerror=alert(document.cookie)>.csv
+    translation: /"><img src=x onerror=alert(document.cookie)>2.csv
+    multilingual: 1
+  - source: /1.xlsx
+    translation: /%language%/%original_file_name%
 bundles:
   - 1
