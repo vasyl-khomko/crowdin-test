@@ -4,3 +4,5 @@ files:
     ignore:
       - '"><img src=x2 onerror=alert(document.cookie)>.txy'
     translation: /%two_letters_code%/q1w2.txy
+bundles:
+  - 1
