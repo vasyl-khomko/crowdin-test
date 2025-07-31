@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="str1">first string</string>
+  <string name="str2">second string edited</string>
+  <string name="str3">third string</string>
+  <string name="str3">вихід рядка</string>
+</resources>
